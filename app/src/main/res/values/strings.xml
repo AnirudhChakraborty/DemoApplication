@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyDermacyDemo</string>
+    <string name="home_label">DemoApp</string>
+    <string name="hint_user_name">User Name</string>
+    <string name="hint_password">Password</string>
+    <string name="text_submit">Submit</string>
+</resources>
